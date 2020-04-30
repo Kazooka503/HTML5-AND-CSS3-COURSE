@@ -293,10 +293,11 @@ section {
         padding: 30px 39px;
     }
 
+  
+
     .terms {
         margin: 30px 1px 0 0 ;
         padding-left: 52px;
-        padding-right: 52px;
         font-size: 14px;
         line-height: 5px;
         color: #000;
@@ -312,6 +313,7 @@ section {
         color: orange;
         text-decoration: underline;
     }
+
 
     .submit input[type="submit"] {
         color: rgb(225, 225, 225);
